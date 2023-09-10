@@ -1,0 +1,5 @@
+*.ipynb
+projekt/
+
+Pipfile
+*.lock
