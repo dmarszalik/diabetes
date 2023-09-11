@@ -2,4 +2,7 @@
 projekt/
 
 Pipfile
-*.lock
+# *.lock
+
+poetry-diabetes/
+.vscode/
